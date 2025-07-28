@@ -25,6 +25,7 @@
     background-color: #FD6E0A;
     font-weight: bold;
     padding: 18px 35px 19px 36px;
+    border-radius: 2px;
     border: none;
 
 }
@@ -96,11 +97,14 @@ nav li a{
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: 0;
 }
 
 .banner-title{
     font-weight: bold;
     font-size: 85px;
+    margin-top: 0px;
+    margin-bottom: 5px;
 }
 
 .banner-profile-pic{
